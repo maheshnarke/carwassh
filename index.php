@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Yello Jonga - Car Care Experts</title>
+		<title>Yellow Jonga - Car Care Experts</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -43,7 +43,7 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<h2>Yello Jonga</h2>
+							<h2>Yellow Jonga</h2>
 							<p>A<br />
 							Car care service at your <br />
 							door </p>
@@ -152,7 +152,7 @@
 							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 						</ul>
 						<ul class="copyright">
-							<li>&copy; Yello Jonga</li>
+							<li>&copy; Yellow Jonga</li>
 						</ul>
 					</footer>
 
